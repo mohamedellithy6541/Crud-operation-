@@ -1,0 +1,37 @@
+﻿@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>details of Department</h1>
+<div class="form-group">
+    <label asp-for="Name" class="col-form-label" ></label>
+    <input asp-For="Name" class="form-control" readonly />
+   
+</div>
+
+<div class="form-group">
+    <label asp-for="Age" class="col-form-label" ></label>
+    <input asp-For="Age" class="form-control"  readonly/>
+   
+</div>
+
+<div class="form-group">
+    <label asp-for="Address" class="col-form-label"></label>
+    <input asp-For="Address" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="PhoneNumber" class="col-form-label"></label>
+    <input asp-For="PhoneNumber" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="Email" class="col-form-label"></label>
+    <input asp-For="Email" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="HireDate" class="col-form-label"></label>
+    <input asp-For="HireDate" class="form-control" readonly />
+</div>
+<br />
+<a asp-action="Edit"  asp-route-id="@Model.Id" class="btn btn-warning"> Edite</a>
+<a asp-action="Index" class="btn btn-danger"> back to List</a>  

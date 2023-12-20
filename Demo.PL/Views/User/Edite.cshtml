@@ -1,0 +1,44 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Edite";
+}
+
+<h1>Edite</h1>
+<form asp-action="Edite" method="post">
+    <div>
+
+        <label asp-for="UserName" class="col-form-label"> </label>
+        <input asp-for="UserName" class="form-control" />
+        <span asp-validation-for="UserName" class="text-danger"> </span>
+    </div>
+
+    <div>
+
+        <label asp-for="Email" class="col-form-label"> </label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"> </span>
+    </div>
+    <div>
+
+        <label asp-for="PhoneNumber" class="col-form-label"> </label>
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"> </span>
+    </div>
+   
+   
+  
+
+    <div>
+        <input type="checkbox" asp-for="IsAgree" class="form-check-inline" />
+        <label asp-for="IsAgree" class="col-form-label"> </label>
+        <span asp-validation-for="IsAgree" class="text-danger"> </span>
+    </div>
+ 
+    <br />
+    <input type="submit" value="Edite" class=" btn btn-danger" /> ||
+    <a class="btn btn-warning" asp-action="Index"> Back to List</a>
+</form>
+
+
+
+

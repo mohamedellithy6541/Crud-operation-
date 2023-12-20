@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ApplicationUser>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_Layout";
+}
+<a asp-action="create" class="btn btn-danger mt-5"> create Users </a>
+<br />
+
+<div class=" row justify-content-center align-items-center mt-5">
+    <form asp-action="Index" asp-controller="User" class="row col-8 offet-1">
+        <div class="col-8">
+
+            <input type="text" class="form-control" name="searchvalue" placeholder="search by name " />
+        </div>
+        <div class="col-4">
+            <input type="submit" value="Search" class="btn btn-danger" />
+        </div>
+    </form>
+</div>
+@if (Model?.Count()> 0)
+{
+
+    <table class="table table-bordered table-striped  table-hover mt-3 text-center">
+        <tr>
+
+            <td>@Html.DisplayNameFor(d=>d.Id)</td>
+            <td>@Html.DisplayNameFor(d=>d.UserName)</td>
+            <td>@Html.DisplayNameFor(e=>e.Email)</td>
+            <td>@Html.DisplayNameFor(e=>e.IsAgree)</td>
+            <td>@Html.DisplayNameFor(e=>e.PhoneNumber)</td>
+            <td> Detailes </td>
+            <td>Edite </td>
+            <td>Delete</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @item.Id</td>
+                <td> @item.UserName </td>
+                <td> @item.Email</td>
+                <td> @item.IsAgree </td>
+                <td> @item.PhoneNumber</td>
+                <partial name="_buttonpartialview" model="@item.Id.ToString()" />
+
+
+            </tr>
+        }
+
+    </table>
+}
+else
+{
+    <div class="m-3 alert-warning ">
+        <h2>No Employees  less ! </h2>
+    </div>
+}
+

@@ -1,0 +1,36 @@
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\bin\Debug\net7.0\Demo.Dal.deps.json
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\bin\Debug\net7.0\Demo.Dal.dll
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\bin\Debug\net7.0\Demo.Dal.pdb
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.csproj.AssemblyReference.cache
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.AssemblyInfoInputs.cache
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.AssemblyInfo.cs
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.csproj.CoreCompileInputs.cache
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.dll
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\obj\Debug\net7.0\refint\Demo.Dal.dll
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.pdb
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Dal\obj\Debug\net7.0\ref\Demo.Dal.dll
+G:\CrudOP\Demo.Dal\bin\Debug\net7.0\Demo.Dal.deps.json
+G:\CrudOP\Demo.Dal\bin\Debug\net7.0\Demo.Dal.dll
+G:\CrudOP\Demo.Dal\bin\Debug\net7.0\Demo.Dal.pdb
+G:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.csproj.AssemblyReference.cache
+G:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.GeneratedMSBuildEditorConfig.editorconfig
+G:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.AssemblyInfoInputs.cache
+G:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.AssemblyInfo.cs
+G:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.csproj.CoreCompileInputs.cache
+G:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.dll
+G:\CrudOP\Demo.Dal\obj\Debug\net7.0\refint\Demo.Dal.dll
+G:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.pdb
+G:\CrudOP\Demo.Dal\obj\Debug\net7.0\ref\Demo.Dal.dll
+D:\CrudOP\Demo.Dal\bin\Debug\net7.0\Demo.Dal.deps.json
+D:\CrudOP\Demo.Dal\bin\Debug\net7.0\Demo.Dal.dll
+D:\CrudOP\Demo.Dal\bin\Debug\net7.0\Demo.Dal.pdb
+D:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.csproj.AssemblyReference.cache
+D:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.AssemblyInfoInputs.cache
+D:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.AssemblyInfo.cs
+D:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.csproj.CoreCompileInputs.cache
+D:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.dll
+D:\CrudOP\Demo.Dal\obj\Debug\net7.0\refint\Demo.Dal.dll
+D:\CrudOP\Demo.Dal\obj\Debug\net7.0\Demo.Dal.pdb
+D:\CrudOP\Demo.Dal\obj\Debug\net7.0\ref\Demo.Dal.dll

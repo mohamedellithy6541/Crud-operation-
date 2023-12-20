@@ -1,0 +1,45 @@
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Bll.deps.json
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Bll.dll
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Bll.pdb
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Dal.dll
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Dal.pdb
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.csproj.AssemblyReference.cache
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.AssemblyInfoInputs.cache
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.AssemblyInfo.cs
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.csproj.CoreCompileInputs.cache
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.csproj.CopyComplete
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.dll
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\refint\Demo.Bll.dll
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.pdb
+G:\iti monofia\Mvc\Assignement\CrudOP\Demo.Bll\obj\Debug\net7.0\ref\Demo.Bll.dll
+G:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Bll.deps.json
+G:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Bll.dll
+G:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Bll.pdb
+G:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Dal.dll
+G:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Dal.pdb
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.csproj.AssemblyReference.cache
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.GeneratedMSBuildEditorConfig.editorconfig
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.AssemblyInfoInputs.cache
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.AssemblyInfo.cs
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.csproj.CoreCompileInputs.cache
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.csproj.CopyComplete
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.dll
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\refint\Demo.Bll.dll
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.pdb
+G:\CrudOP\Demo.Bll\obj\Debug\net7.0\ref\Demo.Bll.dll
+D:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Bll.deps.json
+D:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Bll.dll
+D:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Bll.pdb
+D:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Dal.dll
+D:\CrudOP\Demo.Bll\bin\Debug\net7.0\Demo.Dal.pdb
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.csproj.AssemblyReference.cache
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.AssemblyInfoInputs.cache
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.AssemblyInfo.cs
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.csproj.CoreCompileInputs.cache
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.csproj.CopyComplete
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.dll
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\refint\Demo.Bll.dll
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\Demo.Bll.pdb
+D:\CrudOP\Demo.Bll\obj\Debug\net7.0\ref\Demo.Bll.dll

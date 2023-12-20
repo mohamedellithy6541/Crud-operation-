@@ -1,0 +1,11 @@
+﻿  <head>
+      <link rel="stylesheet" href="~/css/StyleSheet.css" />
+  </head>
+<body>
+    <div>  
+        @RenderBody();
+    </div> 
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    @await RenderSectionAsync("ValidationScriptsPartial", required: false)
+</body>

@@ -1,0 +1,42 @@
+﻿@model RegisterViewModeld
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_AuthLayout";
+}
+
+<main>
+    
+    <form class="form-control p-2" asp-action="Register">
+        <div asp-validation-summary="All">
+        </div>
+        <div class="text-su ccess text-center  m-2 p-2 ">
+            <h1> Register </h1>
+        </div>
+
+        <label class="col-form-label p-2" id="email-lable">Fname</label>
+        <input asp-for="Fname" id="email" placeholder="Fname">
+
+        <label id="email-lable">Enter your  Lname</label>
+        <input asp-for="Lname" id="email" placeholder="Lname">
+
+        <label id="email-lable">Enter your  Email</label>
+        <input asp-for="Email" id="email" placeholder="email">
+
+        <label for="email" id="email-lable">Enter your password</label>
+        <input asp-for="Password" id="email" placeholder="password">
+
+        <label for="password" id="password-label">Enter your ConfirmPassword</label>
+        <input asp-for="ConforimPassword" id="password" placeholder="password">
+        <label for="password" id="password-label">Enter your password</label>
+        <input asp-for="IsAgree" class="form-check-inline" id="password" placeholder="password">
+
+        <input type="submit" asp-action="Register" value="Login" id="submit">
+        <div class="align-content-center">
+            <p>If you Have Account <a class="btn btn-success" asp-action="Login" asp-controller="Account"> Login Now </a> </p>
+        </div>
+    </form>
+</main>
+
+@section ValidationScriptsPartial{
+    <partial name="_ValidationScriptsPartial" />
+}

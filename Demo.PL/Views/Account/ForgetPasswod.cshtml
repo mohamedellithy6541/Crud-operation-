@@ -1,0 +1,11 @@
+﻿@model ForgetPasswordViewModel
+@{
+    ViewData["Title"] = "ForgetPasswod";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+<form action="SendEmail" method="post">
+<label id="email-lable">Enter your  Email</label>
+<input asp-for="Email" id="email" placeholder="email">
+<input type="submit" placeholder="ResetPassword"/>
+</form>
+
